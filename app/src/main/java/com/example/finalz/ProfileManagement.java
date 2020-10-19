@@ -13,7 +13,7 @@ import android.widget.Toast;
 import com.example.finalz.Database.DBHandler;
 
 public class ProfileManagement extends AppCompatActivity {
-//sdfffg
+//sdfffgff
     EditText username, dob, password ;
     Button add, updateProfile;
     RadioButton male, female;
